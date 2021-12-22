@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CharlyLeblanc
+- 👀 I’m interested in Nanophysics, Quantum Optics, Polaritonics and how to represent physical systems on 2D/3D softwares.
+- 🌱 I’m currently learning Blender, and I will share my codes here.
+- 📫 You can reach me on my personal website : charlyleblanc.net
