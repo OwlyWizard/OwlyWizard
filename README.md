@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @CharlyLeblanc
-- 👀 I’m interested in Nanophysics and Machine Learning.
-- 📫 You can reach me on my personal website : charlyleblanc.net
+ 👀 I’m interested in Nanophysics and Machine Learning.
